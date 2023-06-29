@@ -1,1 +1,1 @@
-# CaliforniaHousingPrices-LinearRegression
+# CaliforniaHousingPricesPrediction-LinearRegression
